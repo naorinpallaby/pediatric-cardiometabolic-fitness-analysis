@@ -2,7 +2,7 @@
 
 This repository contains the reproducible Python statistical pipeline used to investigate the independent associations of cardiorespiratory and muscular fitness with clustered cardiovascular/metabolic risk (Z-Score MR) in school-aged children (N = 250).
 
-## Overview & Summary
+## Summary
 
 * **Background:**  
   Childhood obesity increasingly drives early cardiovascular and metabolic complications, yet the independent and combined contributions of cardiorespiratory and muscular fitness to clustered metabolic risk in pediatric populations require further regional exploration. This study investigates the independent associations of cardiorespiratory endurance and muscular strength with clustered cardiovascular risk (Z-Score MR) in school-aged children.
